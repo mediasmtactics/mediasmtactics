@@ -2,7 +2,7 @@
 <!--   <img src= "https://github-profile-trophy.vercel.app/?username=zukahai&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=100" /> -->
 <div align = "center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocialNetworkMedia&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </div>
 </br>
 
