@@ -1,8 +1,8 @@
 [![HaiZuka](https://github.com/mediasmtactics/mediasmtactics/blob/main/SocialNetwork.gif)](https://www.facebook.com/)
-<!--   <img src= "https://github-profile-trophy.vercel.app/?username=socialnetwork&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=100" /> -->
+<!--   <img src= "https://github-profile-trophy.vercel.app/?username=socialnetwork&theme=buddhism=S,AAA,AA,B,C,A&margin-w=100" /> -->
 <div align = "center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=socialnetwork&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Socialnetwork)](https://github.com/Socialnetwork/github-readme-stats)
 </div>
 </br>
 
