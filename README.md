@@ -20,12 +20,12 @@
   
 | <img width=300/>|<img width=800/>|
 | :-----: | :-: |
-| Facebook | [**Phan Đức Hải**](https://www.facebook.com/chiatayde)  |
-| Youtube | [**HaiZuka**](https://www.youtube.com/HaiZuka) |
+| Facebook | [**Phạm Thành Thiên**](https://www.facebook.com/thien.phamthanh.9/)  |
+| Youtube | [**HaiZuka**](https://www.youtube.com/satthepbienhoa) |
 | Working  | [**Giải Thuật CPP**](https://www.facebook.com) |
-| My blogs | [**HaiZuka**](https://codelearn.io/sharing/post/HaiZuka) |
+| My blogs | [**HaiZuka**](https://satthepbienhoa.vn/) |
 | University | [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/) |
-| Contact | **<duchai2712@gmail.com>** |
+| Contact | **<thanhthienlouis@gmail.com>** |
 | <img width=300/> |  |
   
 </div>
