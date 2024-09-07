@@ -26,10 +26,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: ZukaHai
+          user: Social Network Media
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Bangkok
+          config_timezone: Asia/VietNam
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
