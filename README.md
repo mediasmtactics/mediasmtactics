@@ -1,4 +1,4 @@
-[![HaiZuka](https://github.com/mediasmtactics/mediasmtactics/blob/main/SocialNetwork.gif)](https://www.facebook.com/)
+[![Socialnetwork](https://github.com/mediasmtactics/mediasmtactics/blob/main/SocialNetwork.gif)](https://www.facebook.com/)
 <!--   <img src= "https://github-profile-trophy.vercel.app/?username=socialnetwork&theme=buddhism=S,AAA,AA,B,C,A&margin-w=100" /> -->
 <div align = "center">
 
