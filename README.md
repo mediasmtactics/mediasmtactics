@@ -2,7 +2,17 @@
 <!--   <img src= "https://github-profile-trophy.vercel.app/?username=socialnetwork&theme=buddhism=S,AAA,AA,B,C,A&margin-w=100" /> -->
 <div align = "center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Socialnetwork)](https://github.com/Socialnetwork/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Socialnetwork&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Socialnetwork&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Socialnetwork&show_icons=true" />
+</picture>
 </div>
 </br>
 
